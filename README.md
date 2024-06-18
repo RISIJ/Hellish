@@ -1,3 +1,5 @@
+# RUN START.BAT AND BUILD.BAT
+
 # v3xx-Grabber
 # Features
 Discord Info
