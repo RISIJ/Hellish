@@ -1,4 +1,4 @@
-# RUN START.BAT AND BUILD.BAT
+# run setup.bat
 
 # v3xx-Grabber
 # Features
